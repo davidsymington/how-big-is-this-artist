@@ -3,7 +3,7 @@
 
 // These are your credentials from the Spotify Developer Dashboard
 const CLIENT_ID = "50da93f71b104b4a81be9952eaca7adf";
-const CLIENT_SECRET = "aa80200d6287447aa744f3310742b77b";
+const CLIENT_SECRET = "18c5e8617ec047538233013c60236fcc";
 
 // This is the main function that runs when someone calls your API
 export default async function handler(req, res) {
